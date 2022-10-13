@@ -198,10 +198,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6059659"
-     inkscape:cx="382.0347"
-     inkscape:cy="589.96719"
+     inkscape:cx="339.12799"
+     inkscape:cy="604.81951"
      inkscape:document-units="px"
-     inkscape:current-layer="g136938-3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1864"
      inkscape:window-height="1016"
@@ -250,7 +250,7 @@
        inkscape:export-xdpi="299.95581"
        inkscape:export-ydpi="299.95581"
        transform="rotate(90)"
-       inkscape:export-filename="/home/dusjagr/Documents/Hackteria/mega/Projects/2022_Projects/ROSA Gathering - Yogyakarta/GAPS-Workshop/DangdutFromHell/LM386_TouchNoise_Schematics_screenshot.jpg" />
+       inkscape:export-filename="/home/dusjagr/Documents/Hackteria/mega/Projects/2022_Projects/ROSA Gathering - Yogyakarta/GAPS-Workshop/GAPS-DangdutFromHell/LM386_TouchNoise_Schematics_screenshot.jpg" />
     <use
        height="100%"
        width="100%"
@@ -3702,17 +3702,8 @@
          sodipodi:nodetypes="ccc" />
       <path
          inkscape:connector-curvature="0"
-         id="path56006"
-         d="m 1212.149,680.57148 41.9491,-0.20871 v 15.68963"
-         style="display:inline;opacity:0.973;fill:none;stroke:#000000;stroke-width:1.1199;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:export-filename="/home/dusjagr/Documents/sgmk/Attiny8Step/8StepMixTape/8StepMixTape_PCB-design/8Bit-MixTape_schematics2.png"
-         inkscape:export-xdpi="300"
-         inkscape:export-ydpi="300"
-         sodipodi:nodetypes="ccc" />
-      <path
-         inkscape:connector-curvature="0"
          id="path55488"
-         d="m 1254.4367,810.96671 v 25.44684"
+         d="m 1254.4367,741.8536 v 25.44684"
          style="display:inline;opacity:0.973;fill:none;stroke:#000000;stroke-width:1.1199;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="cc"
          inkscape:export-filename="/home/dusjagr/Documents/sgmk/Attiny8Step/8StepMixTape/8StepMixTape_PCB-design/8Bit-MixTape_schematics2.png"
@@ -3721,7 +3712,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path54226"
-         d="m 1254.4367,708.77073 v 28.00096"
+         d="m 1219.8496,733.4125 0,102.92953"
          style="display:inline;opacity:0.973;fill:none;stroke:#000000;stroke-width:1.1199;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="cc"
          inkscape:export-filename="/home/dusjagr/Documents/sgmk/Attiny8Step/8StepMixTape/8StepMixTape_PCB-design/8Bit-MixTape_schematics2.png"
@@ -4315,7 +4306,7 @@
          rx="4.3720822"
          ry="4.3720818" />
       <g
-         transform="matrix(0.90349969,0,0,0.60528855,101.97511,233.20807)"
+         transform="matrix(0.90349969,0,0,0.60528855,67.386858,332.77841)"
          id="g136708-4"
          style="stroke-width:1.41397;stroke-miterlimit:4;stroke-dasharray:none">
         <rect
@@ -5187,7 +5178,7 @@
       </g>
       <path
          style="display:inline;opacity:0.973;fill:none;stroke:#000000;stroke-width:1.1199;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1213.4575,771.60956 v -91.03334 h -121.8534 v 14.25587"
+         d="m 1213.4575,702.3686 0,-21.79238 h -121.8534 v 14.25587"
          id="path33901"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc" />
@@ -5700,12 +5691,12 @@
          ry="2.8104448" />
       <g
          id="g51105"
-         transform="matrix(0.96298969,0,0,0.96298979,416.55535,27.865717)">
+         transform="matrix(0.96298969,0,0,0.96298979,416.55535,-41.247398)">
         <path
            sodipodi:nodetypes="cccc"
            inkscape:connector-curvature="0"
            id="path51075"
-           d="m 830.64028,804.80783 h 24.39944 l 3.49102,-8.33966 4.10301,8.33966"
+           d="m 833.65062,804.80783 h 21.3891 l 3.49102,-8.33966 4.10301,8.33966"
            style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:1.15642;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <g
            transform="translate(30.90865,8.145714)"
@@ -5736,17 +5727,6 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccc" />
         <text
-           id="text51095"
-           y="815.25488"
-           x="820.60657"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.973;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             id="tspan51093"
-             style="font-size:7.04426px;line-height:1.25"
-             y="815.25488"
-             x="820.60657"
-             sodipodi:role="line">not connected</tspan></text>
-        <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.973;fill:#000000;fill-opacity:1;stroke:none"
            x="848.34717"
@@ -5761,7 +5741,7 @@
       <g
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffaa17;stroke-opacity:1"
          id="g51535"
-         transform="matrix(0,0.45015134,0.4501513,0,929.14489,788.21045)">
+         transform="matrix(0,0.45015134,0.4501513,0,929.14489,719.09734)">
         <path
            style="fill:none;fill-rule:evenodd;stroke:#460000;stroke-width:22.4025;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m -3.5290289,792.58856 c 0.754383,12.10014 0.7499561,16.75702 11.2866388,45.94864"
@@ -5859,18 +5839,11 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9942px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff9955"
              id="tspan51531">Jack</tspan></text>
       </g>
-      <ellipse
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.717325;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
-         id="ellipse54224"
-         cx="1213.4154"
-         cy="680.5155"
-         rx="2.8253922"
-         ry="2.8104448" />
       <g
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
          inkscape:export-filename="/home/dusjagr/Documents/sgmk/Attiny8Step/8StepMixTape/8StepMixTape_PCB-design/8Bit-MixTape_schematics2.png"
-         transform="matrix(0.00911644,0,0,0.00911644,901.95709,594.46297)"
+         transform="matrix(0.00911644,0,0,0.00911644,867.36874,694.03331)"
          id="g54236"
          style="display:inline;opacity:0.973">
         <path
@@ -5901,7 +5874,7 @@
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
          inkscape:export-filename="/home/dusjagr/Documents/sgmk/Attiny8Step/8StepMixTape/8StepMixTape_PCB-design/8Bit-MixTape_schematics2.png"
-         transform="matrix(0.00911644,0,0,0.00911644,901.95709,694.13457)"
+         transform="matrix(0.00911644,0,0,0.00911644,901.95709,625.02146)"
          id="g55498"
          style="display:inline;opacity:0.973">
         <path
