@@ -6,8 +6,8 @@ diy-CAD (do-it-yourself Children Aided Design): The core idea of the workshop-ki
 
 Read more about the creative PCB design methodology on this wiki: https://www.hackteria.org/wiki/Diy-CAD
 
-## the schematics
+## the schematics and the BOM
 ![](LM386_TouchNoise_Schematics_screenshot.jpg)
 
-## the BOM also know as the parts
+## collection of the parts with different footprints
 ![](LM386_TouchNoise_Footprints_screenshot.jpg)
